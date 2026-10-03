@@ -1,0 +1,70 @@
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+# =========================
+# Streamlit
+# =========================
+
+.streamlit/secrets.toml
+
+# =========================
+# SQLite Database
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Generated Files
+# =========================
+
+data/tailored_resume.docx
+
+# =========================
+# User Uploaded Files
+# =========================
+
+resumes/*
+certificates/*
+
+# Keep folder structure
+!resumes/.gitkeep
+!certificates/.gitkeep
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+
+Thumbs.db
+.DS_Store
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
