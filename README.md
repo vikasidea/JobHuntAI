@@ -156,3 +156,24 @@ JobHuntAI/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+---
+
+# 📸 Screenshots
+
+### 🏠 Dashboard
+
+![JobHuntAI Dashboard](assets/screenshots/dashboard.png)
+
+---
+
+### 📋 Job Tracker
+
+![Job Tracker](assets/screenshots/job_tracker.png)
+
+---
+
+### 🤖 AI Job Description Analyzer
+
+![JD Analyzer](assets/screenshots/jd_analyzer.png)
+
+---
