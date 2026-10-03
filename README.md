@@ -162,18 +162,18 @@ JobHuntAI/
 
 ### 🏠 Dashboard
 
-![JobHuntAI Dashboard](assets/screenshots/dashboard.png)
+![JobHuntAI Dashboard](https://github.com/vikasidea/JobHuntAI/blob/main/assets/screenshots/dashboard.png)
 
 ---
 
 ### 📋 Job Tracker
 
-![Job Tracker](assets/screenshots/job_tracker.png)
+![Job Tracker](https://github.com/vikasidea/JobHuntAI/blob/main/assets/screenshots/job_tracker.png)
 
 ---
 
 ### 🤖 AI Job Description Analyzer
 
-![JD Analyzer](assets/screenshots/jd_analyzer.png)
+![JD Analyzer](https://github.com/vikasidea/JobHuntAI/blob/main/assets/screenshots/jd_analyzer.png)
 
 ---
